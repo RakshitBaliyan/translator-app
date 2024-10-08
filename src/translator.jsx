@@ -1,6 +1,4 @@
 // src/Translator.jsx
-import { faMagento } from '@fortawesome/free-brands-svg-icons';
-import { width } from '@fortawesome/free-brands-svg-icons/fa42Group';
 import React, { useState } from 'react';
 
 const Translator = () => {
